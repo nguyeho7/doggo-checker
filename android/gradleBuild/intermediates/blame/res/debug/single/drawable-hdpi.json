@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nhl/Gitstuff/doggo-checker/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/nhl/Gitstuff/doggo-checker/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nhl/Gitstuff/doggo-checker/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/home/nhl/Gitstuff/doggo-checker/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/nhl/Gitstuff/doggo-checker/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/nhl/Gitstuff/doggo-checker/android/res/drawable-hdpi/tile.9.png"
+    }
+]

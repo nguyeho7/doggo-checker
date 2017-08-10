@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nhl/Gitstuff/doggo-checker/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/home/nhl/Gitstuff/doggo-checker/android/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/nhl/Gitstuff/doggo-checker/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/nhl/Gitstuff/doggo-checker/android/res/drawable-mdpi/ic_launcher.png"
+    }
+]
